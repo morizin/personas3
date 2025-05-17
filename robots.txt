@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://morizin.me
+
+# Sitemaps
+Sitemap: https://morizin.me/sitemap.xml
